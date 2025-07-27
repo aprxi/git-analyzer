@@ -1,0 +1,74 @@
+# IDEs
+.vscode
+.idea
+
+styles.css
+.local
+
+.include
+
+# Mac/OSX
+.DS_Store
+*.o
+*.tar.gz
+*.a
+
+# bin/
+
+# cache files
+.cache
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.pyc
+*.lock
+*.json
+
+target/
+
+# virtenv
+venv/
+
+# environment variables
+.env*
+
+# dat files (too large for github)
+*.dat
+*.parquet
+*.zip
+*.svg
+
+# temporary files
+*/temp/
+tmp/
+temp/
+.zig-cache/
+
+# temp build dir
+build/
+static-build/
+# archive/
+dist/
+
+data/
+wts/
+
+# history
+.bash_history
+.python_history
+
+node_modules/
+.aider*
+
+
+prompt/context.*
+
+package-lock.json
+deps
+
+*.wasm
+tree-sitter-wasm/web/wasm/
+
+libs/zlib
+
+zig-out/
