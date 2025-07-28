@@ -1,4 +1,4 @@
-# git-insight
+# git-analyzer
 
 A lean, dependency-free command-line tool written in Zig that analyzes Git repository history and provides weekly productivity metrics.
 
